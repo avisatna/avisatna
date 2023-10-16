@@ -87,4 +87,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=avisatna&" alt="avisatna" />
 
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=1637935)
+
 | ![Jokes Card](https://readme-jokes.vercel.app/api) |
