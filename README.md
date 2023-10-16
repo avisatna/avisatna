@@ -80,13 +80,12 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avisatna&show_icons=true&locale=en&layout=compact" alt="avisatna" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=avisatna&show_icons=true&locale=en" alt="avisatna" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=avisatna&" alt="avisatna" />
 
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=1637935)
+<a href="https://stackoverflow.com/users/1637935/avinash-singh" target="_blank"> <img src="https://github-stackoverflow-readme.vercel.app/?userId=1637935" alt="avisatna" /> </a>
 
 | ![Jokes Card](https://readme-jokes.vercel.app/api) |
